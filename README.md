@@ -1,0 +1,2 @@
+# AlgoritmoGeneticoTSP
+Algoritmo genetico 

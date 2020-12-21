@@ -1,2 +1,4 @@
 # AlgoritmoGeneticoTSP
-Algoritmo genetico 
+
+Only for academic and research use.
+
